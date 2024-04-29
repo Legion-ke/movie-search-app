@@ -1,4 +1,3 @@
-Sure, here's a basic README template for your movie app using HTML, JavaScript, and CSS with TMDB APIs:
 
 ---
 
